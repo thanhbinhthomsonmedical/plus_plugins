@@ -30,7 +30,7 @@ flutter:
 
 dependencies:
   device_info_plus_platform_interface: ^7.0.2
-  ffi: ^2.1.4
+  ffi: 2.1.3
   file: ^7.0.1
   flutter:
     sdk: flutter
